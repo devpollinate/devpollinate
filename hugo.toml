@@ -1,12 +1,4 @@
 baseURL = "https://devpollinate.github.io/rex-makusia/"
 languageCode = "en-us"
-title = "Vikrant | DevOps Engineer"
+title = "DevOps Practitioner"
 theme = "PaperMod"
-
-[params]
-  author = "Vikrant"
-  description = "DevOps Engineer | Cloud Architect | Automation Expert"
-  social = [
-    { name = "github", url = "https://github.com/rex-makusia },
-    { name = "linkedin", url = "https://www.linkedin.com/in/rex-makusia-00333994/" }
-  ]
