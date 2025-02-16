@@ -1,5 +1,5 @@
 baseURL = "https://rex-makusia.github.io/devpollinate/"
 languageCode = "en-us"
 title = "Rex Makusia | DevOps Practitioner"
-theme = "PaperMod"
+theme = "minimo"
 
