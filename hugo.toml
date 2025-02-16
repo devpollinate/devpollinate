@@ -3,8 +3,3 @@ languageCode = "en-us"
 title = "Rex Makusia | DevOps Practitioner"
 theme = "PaperMod"
 
-[params]
-  fingerprint = ""  # Disables integrity checking
-
-[assets]
-  disableFingerprinting = true  # Ensures static assets don't get hashed
