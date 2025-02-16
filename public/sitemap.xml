@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/rex-makusia/</loc>
+    <loc>http://localhost:64787/rex-makusia/posts/</loc>
     <lastmod>2025-02-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/rex-makusia/posts/</loc>
+    <loc>http://localhost:64787/rex-makusia/</loc>
     <lastmod>2025-02-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/rex-makusia/categories/</loc>
+    <loc>http://localhost:64787/rex-makusia/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/rex-makusia/tags/</loc>
+    <loc>http://localhost:64787/rex-makusia/tags/</loc>
   </url>
 </urlset>
