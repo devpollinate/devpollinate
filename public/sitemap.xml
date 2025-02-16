@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:64787/rex-makusia/devpollinate.git/posts/</loc>
+    <loc>https://github.com/rex-makusia/devpollinate.git/posts/</loc>
     <lastmod>2025-02-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:64787/rex-makusia/devpollinate.git/</loc>
+    <loc>https://github.com/rex-makusia/devpollinate.git/</loc>
     <lastmod>2025-02-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:64787/rex-makusia/devpollinate.git/categories/</loc>
+    <loc>https://github.com/rex-makusia/devpollinate.git/categories/</loc>
   </url><url>
-    <loc>http://localhost:64787/rex-makusia/devpollinate.git/tags/</loc>
+    <loc>https://github.com/rex-makusia/devpollinate.git/tags/</loc>
   </url>
 </urlset>
