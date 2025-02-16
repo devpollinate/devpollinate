@@ -1,6 +1,6 @@
-baseURL = "https://rex-makusia.github.io/devpollinate/"
+baseURL = "https://devpollinate.gitlab.io/rex-makusia/"
 languageCode = "en-us"
-title = "Rex Makusia | DevOps Practitioner"
+title = "Rex's DevOps Portfolio"
 theme = "minimo"
 
 [params]
