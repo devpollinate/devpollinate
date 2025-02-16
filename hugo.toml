@@ -2,3 +2,4 @@ baseURL = "https://rex-makusia.github.io/rex-makusia/"
 languageCode = "en-us"
 title = "Rex Makusia | DevOps Practitioner"
 theme = "PaperMod"
+relativeURLs = true
