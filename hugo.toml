@@ -1,7 +1,10 @@
-baseURL = "https://rex-makusia.github.io/devpollinate"
+baseURL = "https://rex-makusia.github.io/devpollinate/"
 languageCode = "en-us"
 title = "Rex Makusia | DevOps Practitioner"
 theme = "PaperMod"
-params:
-    assets:
-        disableFingerprinting: true
+
+[params]
+  fingerprint = ""  # Disables integrity checking
+
+[assets]
+  disableFingerprinting = true  # Ensures static assets don't get hashed
