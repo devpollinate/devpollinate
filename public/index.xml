@@ -1,34 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Welcome to Dev Pollinate on Dev Pollinate</title>
-    <link>https://rex-makusia.github.io/devpollinate/</link>
+    <link>http://localhost:1313/devpollinate/</link>
     <description>Recent content in Welcome to Dev Pollinate on Dev Pollinate</description>
-    <generator>Hugo -- 0.143.1</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 09 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://rex-makusia.github.io/devpollinate/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/devpollinate/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Puppet CD4PE Implementation</title>
-      <link>https://rex-makusia.github.io/devpollinate/projects/03-09-2025/</link>
+      <link>http://localhost:1313/devpollinate/projects/03-09-2025/</link>
       <pubDate>Sun, 09 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://rex-makusia.github.io/devpollinate/projects/03-09-2025/</guid>
-      <description>End-to-end implementation of Continuous Delivery for Puppet Enterprise.</description>
+      <guid>http://localhost:1313/devpollinate/projects/03-09-2025/</guid>
+      <description>&lt;h2 id=&#34;-overview&#34;&gt;🛠 Overview&lt;/h2&gt;&#xA;&lt;p&gt;Puppet CD4PE (Continuous Delivery for Puppet Enterprise) was implemented to streamline the Puppet code deployment lifecycle. This project integrated &lt;strong&gt;GitLab&lt;/strong&gt; with &lt;strong&gt;Puppet CD4PE&lt;/strong&gt; to enable:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Automated code validation and testing.&lt;/li&gt;&#xA;&lt;li&gt;Environment promotion pipelines.&lt;/li&gt;&#xA;&lt;li&gt;Integration with approval workflows.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-key-features&#34;&gt;⚡ Key Features&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;GitOps Integration:&lt;/strong&gt; Seamless connection between GitLab and Puppet CD4PE.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Automated Testing:&lt;/strong&gt; Enforced code quality checks using RSpec and Rubocop.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Pipeline Automation:&lt;/strong&gt; Configured multi-stage pipelines for development, testing, and production.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Why I Created Dev Pollinate?</title>
-      <link>https://rex-makusia.github.io/devpollinate/blog/why-i-created-dev-pollinate/</link>
+      <link>http://localhost:1313/devpollinate/blog/why-i-created-dev-pollinate/</link>
       <pubDate>Sun, 09 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://rex-makusia.github.io/devpollinate/blog/why-i-created-dev-pollinate/</guid>
-      <description>&lt;h1 id=&#34;why-i-created-dev-pollinate-&#34;&gt;Why I Created Dev Pollinate ?&lt;/h1&gt;
-&lt;p&gt;As a DevOps Engineer, I constantly strive to improve my skills, share my experiences, and learn from others in the field. Over the years, I’ve realized the importance of having a platform that allows me to reflect on my journey and contribute to the DevOps community. This is why I created &lt;strong&gt;Dev Pollinate&lt;/strong&gt;—a place to share insights, transformation stories, and ideas that can inspire and help others in their DevOps endeavors.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/devpollinate/blog/why-i-created-dev-pollinate/</guid>
+      <description>&lt;h1 id=&#34;why-i-created-dev-pollinate-&#34;&gt;Why I Created Dev Pollinate ?&lt;/h1&gt;&#xA;&lt;p&gt;As a DevOps Engineer, I constantly strive to improve my skills, share my experiences, and learn from others in the field. Over the years, I’ve realized the importance of having a platform that allows me to reflect on my journey and contribute to the DevOps community. This is why I created &lt;strong&gt;Dev Pollinate&lt;/strong&gt;—a place to share insights, transformation stories, and ideas that can inspire and help others in their DevOps endeavors.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Server Cloning Automation</title>
-      <link>https://rex-makusia.github.io/devpollinate/projects/02-20-2025/</link>
+      <link>http://localhost:1313/devpollinate/projects/02-20-2025/</link>
       <pubDate>Thu, 20 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://rex-makusia.github.io/devpollinate/projects/02-20-2025/</guid>
-      <description>Server Cloning Automation.</description>
+      <guid>http://localhost:1313/devpollinate/projects/02-20-2025/</guid>
+      <description>&lt;h2 id=&#34;-overview&#34;&gt;🛠 Overview&lt;/h2&gt;&#xA;&lt;p&gt;The &lt;strong&gt;Server Cloning Automation&lt;/strong&gt; project was developed to streamline the rebuilding and cleaning of hosts in a financial transaction environment. Previously, the team had to manually clean up test environments, which was a time-consuming process that took &lt;strong&gt;weeks&lt;/strong&gt; to complete. This project leverages &lt;strong&gt;GitLab&lt;/strong&gt;, &lt;strong&gt;Pipelines&lt;/strong&gt;, and &lt;strong&gt;Runners&lt;/strong&gt; to automate critical tasks such as:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Registry Host Level Cleanup&lt;/strong&gt;: Automatically cleaning up registry entries from previous configurations to ensure a clean environment for the next deployment.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Microsoft SQL Server Cleanup&lt;/strong&gt;: Automated cleanup of SQL Server instances, removing old configurations and ensuring the database environment is ready for new deployments.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-key-features&#34;&gt;⚡ Key Features&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;GitLab Integration&lt;/strong&gt;: GitLab CI/CD pipelines and runners manage the automation tasks, providing seamless integration and version control.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Registry Host Cleanup&lt;/strong&gt;: Uses custom scripts in the pipeline to identify and remove outdated registry entries, ensuring hosts are clean for new configurations.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;SQL Server Cleanup&lt;/strong&gt;: Automates the cleanup of Microsoft SQL Server, removing obsolete data and resetting configurations to improve performance and security.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Automation of Rebuilds&lt;/strong&gt;: Fully automated host rebuild process using pipelines for environment consistency and scalability.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Test Environment Optimization&lt;/strong&gt;: Reduces the time spent cleaning test environments from weeks to &lt;strong&gt;hours&lt;/strong&gt;, improving overall efficiency and throughput.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-benefits&#34;&gt;🚀 Benefits&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Efficiency&lt;/strong&gt;: Significantly reduced manual intervention by automating the host rebuild and cleanup processes.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Consistency&lt;/strong&gt;: Ensured consistent host environments by automating cleanup tasks, eliminating human error.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Scalability&lt;/strong&gt;: Streamlined the process for scaling the deployment of hosts, allowing the environment to grow efficiently without compromising quality.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Time Savings&lt;/strong&gt;: What previously took weeks to clean up in the test environment is now accomplished in &lt;strong&gt;hours&lt;/strong&gt;, accelerating development and testing cycles.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-goals-achieved&#34;&gt;🎯 Goals Achieved&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Successfully automated the &lt;strong&gt;host rebuild process&lt;/strong&gt; for Postilion environments.&lt;/li&gt;&#xA;&lt;li&gt;Integrated &lt;strong&gt;GitLab Pipelines&lt;/strong&gt; and &lt;strong&gt;Runners&lt;/strong&gt; to handle complex tasks like &lt;strong&gt;registry cleanup&lt;/strong&gt; and &lt;strong&gt;SQL Server reset&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Reduced test environment cleanup time from weeks to &lt;strong&gt;hours&lt;/strong&gt;, enabling faster iterations and deployments.&lt;/li&gt;&#xA;&lt;li&gt;Improved overall testing efficiency and reduced downtime for development teams.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;</description>
     </item>
   </channel>
 </rss>
